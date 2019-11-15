@@ -11,11 +11,11 @@
 
 로컬 머신에서 학습을 시작한 다음, 클라우드로 확장할 수 있다.
 
-# 되겠지 라는 마음으로 덤볐지만...window 초심자에게 local의 벽이 높았습니다.
+# window 초심자에게 닥친 local의 벽
 Jupyter Notebook: 예제 Notebook을 사용하거나 고유한 Notebook을 만들어 기계 학습에서 Python용 Azure SDK 샘플을 활용할 수 있습니다.
 여러 시행착오 끝에 예제로 몇 번 돌려보는 것이 좋겠다는 생각을 했음-> local에서 온갖 이유로 error...erroerroerroerorr
 
-# NNI로 예제를 돌려봤지만 많은 시간을 local notebook에 쏟은 탓에 그만...그 결과..
+# NNI에서 예제가 별다른 문제 없이 성공해 이걸로 할까 했지만 많은 시간을 local notebook에 쏟은 탓에 끝까지 해보기로 했는데..
 -window에서 local로 azure를 돌려보신 분의 코드를 찾기가 어려웠음.
 
 -첫번째 quest : 기본중에 기본예제 **MNIST**
