@@ -1,5 +1,10 @@
 # automl-pipeline
+
+## ***0. AutoML***
 ![image](https://user-images.githubusercontent.com/46089347/68933580-4cbce680-07d8-11ea-9230-190e80ab18f4.png)
+
+인공 신경망을 활용한 연구는 이미지, 비디오, 자연어 기반 태스크의 추론 정확도를 높이는 것에서 더 나아가 신경망 최적화 및 자동 구조화 분야로 그 폭을 넓혀가고 있다. 인공 신경망 기반 데이터 분석 태스크는 **데이터 탐색, 데이터 전처리/정제, 특징 추출, 모델 선택, 모델 훈련 및 최적화의 단계**로 진행된다. 특히 목표 데이터별로 *모델 선정, 훈련 및 최적화 단계*를 수행하기 위해서는 *도메인 전문 지식은 물론 **많은 시간**과 **컴퓨팅 자원***이 요구된다. 
+
 
 로컬 머신에서 학습을 시작한 다음, 클라우드로 확장할 수 있다.
 
@@ -30,5 +35,5 @@ GCP를 사용할 때와는 다른 느낌에 로그인을 하지 않고 코드를
 ![image](https://user-images.githubusercontent.com/46089347/68934898-eb4a4700-07da-11ea-9e62-ec189f76ae57.png)
 sklearn모델을 불러와서 joblib를 import하는 데서 error가 났다. 
 
-stackoverflow를 뒤진 결과 joblib의 version이 통일되게 쓰이지 않아 그렇다고 해서 그냥 **import joblib** 로 바꿨더니 기적처럼 돌아갔다.
+stackoverflow를 뒤진 결과 joblib의 version이 통일되게 쓰이지 않아 그렇다고 해서 그냥 **import joblib** 로 바꿨더니 돌아갔다.
 
