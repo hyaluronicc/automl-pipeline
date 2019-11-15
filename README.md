@@ -42,3 +42,7 @@ stackoverflow를 뒤진 결과 joblib의 version이 통일되게 쓰이지 않�
 
 ![image](https://user-images.githubusercontent.com/46089347/68936566-3023ad00-07de-11ea-8f7f-70658ddbc43b.png)
 배포된 것을 확인
+![image](https://user-images.githubusercontent.com/46089347/68936629-4fbad580-07de-11ea-87fc-2994843d6209.png)
+테스트까지 확인
+
+
