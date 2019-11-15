@@ -51,3 +51,8 @@ stackoverflow를 뒤진 결과 joblib의 version이 통일되게 쓰이지 않�
 
 failed... again and again
 
+역시 로컬의 문제라고 생각해 azure notebook에서 시도했지만 동일한 부분에서 failed...
+
+다른 실험은 성공하겠지라고 생각해 video-style-transfer 파일로 진행했지만..
+
+
