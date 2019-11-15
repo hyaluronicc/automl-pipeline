@@ -54,5 +54,11 @@ failed... again and again
 역시 로컬의 문제라고 생각해 azure notebook에서 시도했지만 동일한 부분에서 failed...
 
 다른 실험은 성공하겠지라고 생각해 video-style-transfer 파일로 진행했지만..
+![image](https://user-images.githubusercontent.com/46089347/68937075-1d5da800-07df-11ea-8178-fabc72ce3d62.png)
 
+failed...
+
+벼락치기로 이런 시행착오를 거쳐 과제 완수에 차질이 생긴 점.. 죄송합니다..
+
+하지만 계속 업뎃할 예정이오니.. 도와주세요..
 
