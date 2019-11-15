@@ -22,5 +22,8 @@ GCP를 사용할 때와는 다른 느낌에 로그인을 하지 않고 코드를
 -%%의 경우 인식을 하지 못해 따로 .py로 만들어 해당 경로에 넣어줬더니 제대로 동작
 
 ![image](https://user-images.githubusercontent.com/46089347/68934498-1da77480-07da-11ea-85a1-c3cbfc3a4d6a.png)
+거의 뻘짓의 연속이었습니다..
+![image](https://user-images.githubusercontent.com/46089347/68934638-5f381f80-07da-11ea-9252-5c10abbfb952.png)
 
+모델을 register한 후 deploy하는 과정에서도 한 차례 고난이 있었는데..
 
