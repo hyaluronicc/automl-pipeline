@@ -47,6 +47,7 @@ stackoverflow를 뒤진 결과 joblib의 version이 통일되게 쓰이지 않�
 
 ## ***3. pipeline faliure***
 자습서에 나와있는 이미지 일괄처리 채점용 파이프라인을 만들려고 시도
+![image](https://user-images.githubusercontent.com/46089347/68936872-b8a24d80-07de-11ea-82b9-f15295fde398.png)
 
-
+failed... again and again
 
