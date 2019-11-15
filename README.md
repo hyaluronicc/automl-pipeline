@@ -11,7 +11,7 @@ Jupyter Notebook: 예제 Notebook을 사용하거나 고유한 Notebook을 만�
 -window에서 local로 azure를 돌려보신 분의 코드를 찾기가 어려웠음.
 
 -첫번째 quest : 기본중에 기분 MNIST
-***## 1. Training***
+## ***1. Training***
 GCP를 사용할 때와는 다른 느낌에 로그인을 하지 않고 코드를 쳤다가 실패하는 경우가 있었음.
 
 -기본 중에 기본이지만 Azure가 
