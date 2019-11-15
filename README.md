@@ -25,6 +25,7 @@ GCP를 사용할 때와는 다른 느낌에 로그인을 하지 않고 코드를
 거의 뻘짓의 연속이었습니다..
 ![image](https://user-images.githubusercontent.com/46089347/68934638-5f381f80-07da-11ea-9252-5c10abbfb952.png)
 
+## ***2. Deploy***
 모델을 register한 후 deploy하는 과정에서도 한 차례 고난이 있었는데..
 ![image](https://user-images.githubusercontent.com/46089347/68934898-eb4a4700-07da-11ea-9e62-ec189f76ae57.png)
 sklearn모델을 불러와서 joblib를 import하는 데서 error가 났다. 
