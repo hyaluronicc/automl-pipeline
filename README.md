@@ -21,4 +21,4 @@ GCP를 사용할 때와는 다른 느낌에 로그인을 하지 않고 코드를
 
 -%%의 경우 인식을 하지 못해 따로 .py로 만들어 해당 경로에 넣어줬더니 제대로 동작
 
--
+![image](https://user-images.githubusercontent.com/46089347/68934498-1da77480-07da-11ea-85a1-c3cbfc3a4d6a.png)
