@@ -40,4 +40,5 @@ sklearn모델을 불러와서 joblib를 import하는 데서 error가 났다.
 
 stackoverflow를 뒤진 결과 joblib의 version이 통일되게 쓰이지 않아 그렇다고 해서 **import joblib** 로 바꿨더니 돌아갔다.
 
-
+![image](https://user-images.githubusercontent.com/46089347/68936566-3023ad00-07de-11ea-8f7f-70658ddbc43b.png)
+배포된 것을 확인
